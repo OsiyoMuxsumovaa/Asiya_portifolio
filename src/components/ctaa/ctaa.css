@@ -1,0 +1,25 @@
+form{
+    display: block;
+    background-color: white;
+    margin: 45px auto;
+    max-width: 600px;
+    max-height: 700px;
+    padding: 20px 40px;
+}
+form input, textarea{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 10px auto;
+    padding: 8px;
+    background-color: #01042f;
+    border: 1px solid white;
+}
+form button{
+   height: 30px;
+   width: 100px;
+   align-items: center;
+   border: none;
+   color: white;
+   background: radial-gradient(circle at 3% 25%, rgb(15, 16, 83) 0%, rgb(17, 17, 17) 100%);
+}
