@@ -15,7 +15,7 @@ function footer() {
             src={gpt3Logo}
             alt="gpt3 logo"
           />
-          <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
+          <p>This is my portfolio page dedicated to website development.</p>
         </div>
         <div className="gpt3__footer-links_divs">
           <div className="gpt3__footer-links_div">
